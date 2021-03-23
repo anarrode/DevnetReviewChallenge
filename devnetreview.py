@@ -28,7 +28,8 @@ from prettytable import PrettyTable
 
 #Define the URL
 omdbAPIURL = 'http://www.omdbapi.com/?t='
-omdbAPIKey = 'd54429ee'
+#Replace with your OMDb API, removed to avoid abuse.
+omdbAPIKey = 'xxxxxx'
 
 #Define the titles
 nominees = ['Minari', 'Sound of Metal', 'Mank', 'Promising Young Woman', 'The Father', 'Judas and the Black Messiah', 'The Trial of the Chicago 7', 'Nomadland']
